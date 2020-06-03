@@ -16,11 +16,11 @@ $(document).ready(function() {
       link: 'https://github.com/shubhankar-naik/covid-tracker'
     },
     newrelic: {
-      title: 'NewRelic.com',
-      tag: 'APPLICATION PERFORMANCE MONITORING.',
+      title: 'React Chat App',
+      tag: 'No database',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.newrelic.com'
+        'Chat with friends by creating room id and shar it as there is no database after refreshing or exiting the page the chats will not be recovered after joining the room again',
+      link: 'https://github.com/shubhankar-naik/React-Chat-App'
     },
     roambi: {
       title: 'Roambi.com',
